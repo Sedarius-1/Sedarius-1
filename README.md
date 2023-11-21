@@ -36,8 +36,8 @@
 
 <ul>
     <li> My name's Kuba!</li>
-    <li>I'm a student at <span class="highlightRed">Technical University of Łódź.</span></li>
-    <li> Currently I am enrolled in the <span class="highlightRed">third Year</span> of <span class="highlightRed">Applied
+    <li>I'm a student at <span style="color:red">Technical University of Łódź.</span></li>
+    <li> Currently I am enrolled in the <span style="color:red">third Year</span> of <span style="color:red">Applied
   Computer Science.</span></li>
 
 </ul>
