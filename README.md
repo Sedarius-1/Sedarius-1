@@ -1,56 +1,23 @@
-<style>
-    span {
-        font-weight: bold;
-    }
+<h1 id="title">Hi, I'm Sedarius</h1>
 
-    .highlightRed {
-        color: red;
-    }
-
-    .highlightOrange {
-        color: orange;
-    }
-
-    .highlightGreen {
-        color: green;
-    }
-
-    .highlightBlue {
-        color: #30709e;
-    }
-
-    .pythonLink {
-        color: #30709e;
-    }
-
-    a:hover {
-        color: purple;
-        font-weight: bold;
-        text-decoration: none;
-    }
-</style>
-
-<h1 id="title" align="left">Hi, I'm Sedarius</h1>
-
-<h2 style="color:purple">About me</h2>
+<h2>About me</h2>
 
 <ul>
-    <li> My name's Kuba!</li>
-    <li>I'm a student at <span style="color:red">Technical University of Łódź.</span></li>
-    <li> Currently I am enrolled in the <span style="color:red">third Year</span> of <span style="color:red">Applied
-  Computer Science.</span></li>
+    <li> My name's Kuba Kalinowski!</li>
+    <li>I'm a student at Technical University of Łódź.</li>
+    <li> Currently, I am enrolled in the third Year of Applied
+  Computer Science.</li>
 
 </ul>
-<h2 style="color:purple">Technologies</h2>
+<h2>Technologies</h2>
 
 
 <ul>
     <li> Most of my study projects are realized using
-        <span class="highlightOrange">Java </span>, and are mostly based on <span
-                class="highlightGreen">Spring Boot</span> and it's myriad of sub modules.
-    </li>
-    <li> For my spare-time projects I opt to use either <span class="highlightBlue">Python</span> or <span
-            class="highlightOrange">Java</span>.
-    </li>
-
+        Java , and are mostly based on 
+                >Spring Boot and it's myriad of submodules.</li>
+    <li> For my spare-time projects I opt to use either Python or Java.</li>
+    <li> I am also employed at Technical University of Łódź, where I use my Java skills to assist the process of developing applications to digitalize the University.</li>
+    <li> Apart from programming languages, I also am developing my Git and SQL capabilities.</li>
 </ul> 
+
