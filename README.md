@@ -5,8 +5,8 @@
 <ul>
     <li> My name's Kuba Kalinowski!</li>
     <li>I'm a student at Technical University of Łódź.</li>
-    <li> Currently, I am enrolled in the fourth Year of Applied
-  Computer Science.</li>
+    <li>As of 2025, I have finished the Applied
+  Computer Science Course on TUL.</li>
 
 </ul>
 <h2>Technologies</h2>
